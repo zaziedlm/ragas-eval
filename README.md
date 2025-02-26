@@ -60,7 +60,7 @@ LangChainとOpenAI GPT-4oを使用したチャットボットとRAG検索の評�
 
 ## ライセンス
 
-このプロジェクトはMITライセンスのもとで公開されています。詳細については、`LICENSE` ファイルを参照してください。
+このプロジェクトはMITライセンスのもとで公開されています。
 
 ## 貢献
 
@@ -68,5 +68,5 @@ LangChainとOpenAI GPT-4oを使用したチャットボットとRAG検索の評�
 
 ## 作者
 
-- 名前: あなたの名前
-- GitHub: [yourusername](https://github.com/yourusername)
+- 名前: zaziedlm
+- GitHub: [zaziedlm](https://github.com/zaziedlm)
